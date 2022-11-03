@@ -1,0 +1,14 @@
+MyFile.txt
+main.py
+.Python
+bin
+pyvenv.cfg
+.gitignore
+lib
+tr5_2.iml
+inspectionProfiles
+vcs.xml
+.gitignore
+workspace.xml
+modules.xml
+misc.xml
